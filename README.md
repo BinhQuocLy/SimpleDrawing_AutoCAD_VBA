@@ -12,7 +12,7 @@ I have made a VBA module form which has those features
 + Write to a log text file to Desktop
 
 ## Demo image:
-<a href="https://ibb.co/KN4Mkr3"><img src="https://i.ibb.co/cbfGHr7/Untitled.png" alt="Untitled" border="0"></a>
+![demo](https://i.ibb.co/PTX7n6f/Untitled.png)
 
 ## Core functions:
 
